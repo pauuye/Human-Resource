@@ -20,6 +20,8 @@ Project Structure
 ```
 HR-Project/
 │
+├── README.md 
+│
 ├── data/                   
 │     └──  employee_productivity.csv
 ├── MySQL/
