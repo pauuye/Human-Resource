@@ -37,11 +37,11 @@ HR-Project/
 │          ├── HR.png
 │          └── Summary.png
 └── PowerBI/
-│     ├── README.md
-│     ├── HR_PowerBI_Project2.pbix
-│     └── Screenshots
-│          ├── Dashboard.png
-│          └── Summary.png
+      ├── README.md
+      ├── HR_PowerBI_Project2.pbix
+      └── Screenshots
+           ├── Dashboard.png
+           └── Summary.png
 ```
 **What This Project Covers**
 
