@@ -25,21 +25,21 @@ HR-Project/
 ├── MySQL/
 │     ├── README.md
 │     ├── HR_Sql_EDA_v2.sql
-│     └── Screenshots
+│     └── Screenshots/
 │          ├── Comparison.png
 │          ├── Duplicate.png
 │          └── Employee.png
 ├── Excel/
 │     ├── README.md
 │     ├── employee_productivity_final.xlsx
-│     └── Screenshots
+│     └── Screenshots/
 │          ├── Dashboard.png
 │          ├── HR.png
 │          └── Summary.png
 └── PowerBI/
       ├── README.md
       ├── HR_PowerBI_Project2.pbix
-      └── Screenshots
+      └── Screenshots/
            ├── Dashboard.png
            └── Summary.png
 ```
